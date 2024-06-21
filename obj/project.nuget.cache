@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "C3dL4RO+jkg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lasse\\pf2eTemplates\\pf2eTemplates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lasse\\.nuget\\packages\\elastic.clients.elasticsearch\\8.14.2\\elastic.clients.elasticsearch.8.14.2.nupkg.sha512",
+    "C:\\Users\\Lasse\\.nuget\\packages\\elastic.transport\\0.4.19\\elastic.transport.0.4.19.nupkg.sha512",
+    "C:\\Users\\Lasse\\.nuget\\packages\\markdig.signed\\0.37.0\\markdig.signed.0.37.0.nupkg.sha512",
+    "C:\\Users\\Lasse\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Lasse\\.nuget\\packages\\system.drawing.common\\8.0.6\\system.drawing.common.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
